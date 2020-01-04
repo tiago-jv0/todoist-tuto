@@ -34,6 +34,8 @@ export const SideBar = () => {
             <ul className="sidebar__projects">
                 Projects will be here
             </ul>
+
+            <p>Add Project Component Here</p>
         </div>
     );
 };
